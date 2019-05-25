@@ -2,15 +2,15 @@
 
 ## Installation
 
-* Install ruby and rails (rails must be installed in project folder i.e. Anaek directory)
-https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rvm-on-ubuntu-16-04
-* Ruby and rails version must be same as mentioned in Gemfile(if installed version is different then update in Gemfile)
-
 * Clone the repository 
 
 ```bash
 git clone https://github.com/abhishekmantri/metar.git
 ```
+
+* Install ruby and rails (rails must be installed in project folder i.e. "metar" directory)
+https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rvm-on-ubuntu-16-04
+* Ruby and rails version must be same as mentioned in Gemfile(if installed version is different then update in Gemfile)
 
 * Use bundler to install the gems required
 
