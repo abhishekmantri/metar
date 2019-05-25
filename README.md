@@ -26,5 +26,5 @@ rails server
 
 ## Assumption
 
-* Response from the METAR link must me in same format as mentioned in PDF
+* Response from the METAR link must be in same format as mentioned in PDF
 * As the link was redirecting to another link that is taken care of.
